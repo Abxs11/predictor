@@ -11,11 +11,11 @@ class ResourcePredictor:
 
 
         # Gömülü bağlantı bilgileri
-        auth_url = "https://safirbuluttest.b3lab.org:5000/v3"
-        endpoint = "https://safirbuluttest.b3lab.org:8070/v2.0"
+        auth_url = "***************************"  # Buraya kendi auth_url'inizi girin
+        endpoint = "****************************"  # Buraya kendi endpoint'inizi girin
         project_name = "admin"
         username = "admin"
-        password = "7ea6ee6bfa57e013528cd3bd670ac212831545a38f8764178916fa77fb"
+        password = "***************************"  # Buraya kendi şifrenizi girin
         user_domain_name = "default"
         project_domain_name = "default"
 
